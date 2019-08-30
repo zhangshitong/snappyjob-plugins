@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.snappydata:spark-jobserver_2.11:0.6.2.8">
+    <CLASSES>
+      <root url="jar://D:/maven/localRepository/io/snappydata/spark-jobserver_2.11/0.6.2.8/spark-jobserver_2.11-0.6.2.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/maven/localRepository/io/snappydata/spark-jobserver_2.11/0.6.2.8/spark-jobserver_2.11-0.6.2.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/maven/localRepository/io/snappydata/spark-jobserver_2.11/0.6.2.8/spark-jobserver_2.11-0.6.2.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

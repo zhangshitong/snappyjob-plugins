@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.snappydata:snappydata-jdbc_2.11:only:1.0.2.1">
+    <CLASSES>
+      <root url="jar://D:/maven/localRepository/io/snappydata/snappydata-jdbc_2.11/1.0.2.1/snappydata-jdbc_2.11-1.0.2.1-only.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/maven/localRepository/io/snappydata/snappydata-jdbc_2.11/1.0.2.1/snappydata-jdbc_2.11-1.0.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/maven/localRepository/io/snappydata/snappydata-jdbc_2.11/1.0.2.1/snappydata-jdbc_2.11-1.0.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
